@@ -1,5 +1,5 @@
 ---
-title: "Creating a local repositry"
+title: "Creating a local repository"
 teaching: 10
 exercises: 10
 objectives:
